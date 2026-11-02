@@ -29,6 +29,7 @@ Hechas con la aplicación de escritorio ([docs/DESKTOP.md](docs/DESKTOP.md)); en
 |---|---|
 | ![Vista principal con la lista de canales](docs/img/principal.png) | ![U7D: canales con grabaciones de la última semana](docs/img/u7d-canales.png) |
 | ![Ajustes ▸ Plugins](docs/img/plugins.png) | ![Ajustes ▸ Registro](docs/img/registro.png) |
+| ![Teletexto: titulares de portada](docs/img/teletexto.png) | ![Teletexto: índice](docs/img/teletexto-indice.png) |
 
 ## Características y estado
 
